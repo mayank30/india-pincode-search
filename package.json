@@ -1,7 +1,7 @@
 {
   "name": "india-pincode-search",
-  "version": "1.0.1",
-  "description": "Search India Pincode - Latest data updated",
+  "version": "1.0.2",
+  "description": "Search India Postcode Pincode - Post office city state district data database.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -17,7 +17,10 @@
     "city",
     "state",
     "country",
-    "etc."
+    "postcode",
+    "district",
+    "village",
+    "node npm package"
   ],
   "author": "Mayank Jhawar",
   "license": "ISC",
