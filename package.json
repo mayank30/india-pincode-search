@@ -1,0 +1,31 @@
+{
+  "name": "india-pincode-search",
+  "version": "1.0.0",
+  "description": "Search India Pincode - Latest data updated",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank30/india-pincode-search.git"
+  },
+  "keywords": [
+    "india",
+    "pincode",
+    "search",
+    "city",
+    "state",
+    "country",
+    "etc."
+  ],
+  "author": "Mayank Jhawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayank30/india-pincode-search/issues"
+  },
+  "homepage": "https://github.com/mayank30/india-pincode-search#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
