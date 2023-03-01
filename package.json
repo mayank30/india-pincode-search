@@ -1,6 +1,6 @@
 {
   "name": "india-pincode-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search India Pincode - Latest data updated",
   "main": "index.js",
   "scripts": {

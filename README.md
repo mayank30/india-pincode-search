@@ -26,7 +26,7 @@ query.search('452009');
   }]*/
 
 
-pincodeDirectory.lookup('Sudama naga');
+query.search('Sudama naga');
 /*[{
     state: 'MADHYA PRADESH',
     city: 'INDORE',
